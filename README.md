@@ -2,6 +2,7 @@
 ## 🌞 인터랙티브 무비 "Loop"
 
 [Steam Game Store Page](https://store.steampowered.com/app/2365200/Loop/ "Steam Game Store Page")  
+프로젝트 기간: `2022.08 ~ 2023.04` \
 인터랙티브 무비 형식의 게임 "Loop"입니다.
 어느날 소라는 출근길에 루프에 갖히게 되고, 사용자의 선택들로 엔딩을 만들어 나갑니다.
 
